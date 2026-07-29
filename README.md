@@ -1,4 +1,4 @@
-# 💫 About Me:
+# [!(https://i.pinimg.com/736x/52/aa/9a/52aa9a7dcf0b72fd435ce6cd526981a1.jpg)] About Me:
 📡 I'm currently working on<br>Full-stack development projects mixing freelance client work with my own product builds, mostly in the MERN/Next.js ecosystem<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on<br>Micro-SaaS ideas for the Indian market simple, Website-native tools that solve real problems for small businesses<br><br>🍅 I'm looking for help with<br>Breaking into a solid fullstack role, ideally in the fintech space, and sharpening my backend/system design skills<br><br>🌱 I'm currently learning<br>System architecture and backend depth how to design things that actually scale, not just work<br><br>💬 Ask me about<br>Building production-grade systems, freelancing as a dev, or anything full-stack/MERN related<br><br>⚡ Fun fact<br>I'm working toward climbing K2 someday got a whole multi-year roadmap for it
 
 
